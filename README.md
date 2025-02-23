@@ -11,6 +11,9 @@ this is my submission for the first asylum program where we had to make a weathe
 ### pcb (placement + routing)
 ![image](https://github.com/user-attachments/assets/36663c2d-68da-466e-85a5-ef9ee698421b)
 
-### case
+### case (top + bottom)
+![image](https://github.com/user-attachments/assets/5c924e55-0d2d-4edd-a9c4-136311228aeb)
+![image](https://github.com/user-attachments/assets/da92a5a1-00fc-4450-b812-6585b6be54ae)
+
 ### firmware
 
